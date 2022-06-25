@@ -1,2 +1,2 @@
 # eaglercraft-server-colab
-Google Colab EagleCraft Server.
+Google Colab EaglerCraft Server.
